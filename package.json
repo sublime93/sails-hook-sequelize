@@ -13,6 +13,9 @@
     "type": "git",
     "url": "http://BOESGIT01/n-tech/sails-hook-sequelize.git"
   },
+  "sails": {
+    "isHook": true
+  },
   "keywords": [
     "sail",
     "hook",
