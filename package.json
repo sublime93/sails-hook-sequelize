@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-sequelize",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sails hook for sequelize ORM",
   "main": "lib/index.js",
   "directories": {
@@ -25,6 +25,6 @@
   "author": "N-Tech Consulting",
   "license": "ISC",
   "dependencies": {
-    "sequelize": "^5.10.3"
+    "sequelize": "^5.12.0"
   }
 }
