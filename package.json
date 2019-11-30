@@ -25,6 +25,6 @@
   "author": "Jordan Vohwinkel <jvohwinkel@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "sequelize": "^5.12.0"
+    "sequelize": "^5.15.1"
   }
 }
