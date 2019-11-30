@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-sequelize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sails hook for sequelize ORM",
   "main": "lib/index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://BOESGIT01/n-tech/sails-hook-sequelize.git"
+    "url": "https://github.com/sublime93/sails-hook-sequelize.git"
   },
   "sails": {
     "isHook": true
@@ -22,8 +22,8 @@
     "sequelize",
     "orm"
   ],
-  "author": "N-Tech Consulting",
-  "license": "ISC",
+  "author": "Jordan Vohwinkel <jvohwinkel@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "sequelize": "^5.12.0"
   }
