@@ -1,5 +1,5 @@
 {
-  "name": "sails-hook-sequelize",
+  "name": "sails-hook-better-sequelize",
   "version": "1.0.3",
   "description": "Sails hook for sequelize ORM",
   "main": "lib/index.js",
