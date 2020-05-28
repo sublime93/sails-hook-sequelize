@@ -25,6 +25,9 @@
   "author": "Jordan Vohwinkel <jvohwinkel@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "sequelize": "^5.21.3"
+    "npm-check-updates": "^6.0.1",
+    "sequelize": "^5.21.11",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
   }
 }
